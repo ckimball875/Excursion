@@ -1,0 +1,47 @@
+.verdana {
+  font-family: verdana;
+}
+
+.pixels50 {
+  font-size: 50px;
+}
+
+.pixels42 {
+  font-size: 42px;
+}
+
+.pixels21 {
+  font-size: 21px;
+}
+
+.pixels16 {
+  font-size: 16px;
+}
+
+.white {
+  color: white;
+}
+
+.gray {
+  color: gray;
+}
+
+.aquamarine {
+  color: aquamarine;
+}
+
+.centered {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+body {
+  background-color: black;
+}
+
+a {
+  color: aquamarine;
+}
